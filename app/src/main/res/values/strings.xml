@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string-array name="Array_top">
+        <item>Resep Syomai Enak</item>
+        <item>Resep Pempek Mudah </item>
+    </string-array>
+    <string-array name="Array_bottom">
+        <item>Membuat Syomai dengan langkah mudah</item>
+        <item>Pempek Enak dengan Bahan sederhana</item>
+
+    </string-array>
+</resources>
